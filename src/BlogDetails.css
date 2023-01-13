@@ -1,0 +1,23 @@
+.blog-details h2{
+    color: mediumvioletred;
+}
+.blog-details .author{
+    color: grey;
+}
+.blog-details button{
+    border: 0px;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: mediumvioletred;
+    cursor: pointer;
+}
+.blog-details button:hover{
+    background-color: #3e8e41
+}
+.pending {
+    margin-top: 15px;
+}
+.error{
+    margin-top: 50px;
+}

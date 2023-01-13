@@ -1,0 +1,19 @@
+.BlogList h2{
+    font-size: 25px;
+    color: mediumvioletred;
+}
+.blog-preview{
+    cursor: pointer;
+    padding: 3px;
+}
+.blog-preview h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    color: maroon;
+}
+.blog-preview p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.blog-preview:hover{
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.5);
+}
